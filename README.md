@@ -5,7 +5,7 @@
 ### About me
 🧑‍🎓-Cursando Analise e Desenvolvimento de Sistema
 
-💻-Futuro Desenvolvedor Front-end
+💻-Futuro Desenvolvedor 
 
 
 
